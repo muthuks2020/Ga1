@@ -1,6 +1,6 @@
 {
-	"name": "Image Matching Game",
-	"short_name": "Image Matching Game",
+	"name": "GCP-Searce",
+	"short_name": "GCP-Searce",
 	"description": "Kids Game",
 	"start_url": "index.html",
 	"display": "fullscreen",
